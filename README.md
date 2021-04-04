@@ -29,3 +29,7 @@ herramienta para la ayuda de buenas practicas y guias de estilo del codigo
 --Instalacion de File-Loader
 herramienta que permite el acceso de imagenes desde el codigo
 --npm install file-loader -D
+
+
+--simulacion de un server 
+--npx json-server --watch initialState.json
