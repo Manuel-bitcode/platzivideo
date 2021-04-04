@@ -25,3 +25,7 @@ Es una herramienta de agrupacion y optimizacion de proyecto
 --Instalacion de ESlint
 herramienta para la ayuda de buenas practicas y guias de estilo del codigo
 -- npm install eslint bable-eslint eslint-config-airbnb eslint-plugin-import eslint-plugin-react eslint-plugin-jsx-a11y 
+
+--Instalacion de File-Loader
+herramienta que permite el acceso de imagenes desde el codigo
+--npm install file-loader -D
